@@ -109,3 +109,23 @@ ___이탤릭볼드___
 ```
 ![예시 이미지](https://raw.githubusercontent.com/ByungJun25/Wiki/master/Markdown/example_image.jpg)
 ```
+## TABLE
+
+```
+1 | 2 | 3
+--- | --- | ---
+표 쓸때는 | 중간 두번째줄에 | `---` 이거 필요합니다.
+```
+
+## 마크다운 포맷 무시하기
+*이건데* .. \*이렇게\*
+```
+*이건데* .. \*이렇게\*
+```
+
+## Emoji
+&#128525;
+```
+&#128525;
+```
+*더많은 이모티콘 https://steemit.com/steemkr-guide/@snow-airline/steemkr-quick-start-guide
