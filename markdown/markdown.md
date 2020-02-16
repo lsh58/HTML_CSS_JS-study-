@@ -138,3 +138,7 @@ ___이탤릭볼드___
 &#128525;
 ```
 *더많은 이모티콘 https://steemit.com/steemkr-guide/@snow-airline/steemkr-quick-start-guide
+
+## 배지(badge) 만들기
+
+<https://shields.io>
